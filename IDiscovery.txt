@@ -1,1 +1,5 @@
 it is better to find a better way to write them
+
+* (main) this is in main
+
+now the question is how to combine main and Ehsan branch together when they are difference.
